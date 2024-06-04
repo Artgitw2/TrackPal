@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  Track Pal
+
+  Created by Abdulla Rayes on 26/07/2023.
+  
+*/
+
+// main view
+"Tasks" = "Tasks";
+"BOA" = "BOA";
+"Stats" = "Stats";
+"Settings" = "Settings";
+
+
+
+// tasks view
+"TodaysTasks" = "Tasks for today";
+
+
+// add task view
+
+"TaskEntry" = "Enter your task";
+"StartTimeText" = "Select expected start time:";
+"FinishTimeText" = "Select expected finish time:";
+"AddTask" = "Add";
+
+"ValidTaskWarning" = "Please add a valid task";
+"OkButton" = "Ok";
+
+
+// edit task view
+
+"EditTitle" = "Edit your task";
+"ChangeButton" = "Change";
+
+// boa
+
+"unlocked" = "Unlocked";
+"locked" = "Locked";
+
+
+// settings view
+
+"subscription" = "SUBSCRIPTION";
+"preferences" = "PREFERENCES";
+"language" = "Language";
+"icon" = "Icon";
+"light" = "Light";
+"dark" = "Dark";
+
+"languageChangeAlert" = "To change the language, please exit the app and launch it again";
+
+"ExitBtn" = "Exit";
+"cancel" = "Cancel";
+
+// stats view
+
+"days" = "days";
+"streak" = "Streak:";
+"sun" = "Sun";
+"mon" = "Mon";
+"tue" = "Tue";
+"wed" = "Wed";
+"thu" = "Thu";
+"fri" = "Fri";
+"sat" = "Sat";
+
+"signIn" = "Sign in";
+"signOut" = "Sign out";
+"signOutPrompt" = "Are you sure you want to log out?";
+"cancel" = "Cancel";
+"registerNow" = "Register now";
+
+
+"emailPrompt" = "Enter your email";
+"passwordPrompt" = "Enter your password";
+
+"resetPasswordPrompt" = "Forgot your password?";
+"accountMissingPrompt" = "Don't have an account?";
+"accountExistsPrompt" = "Already have an account?";

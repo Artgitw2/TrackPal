@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  Track Pal
+
+  Created by Abdulla Rayes on 26/07/2023.
+  
+*/
+
+
+"Tasks" = "المهام";
+"BOA" = "الإنجازات";
+"Stats" = "الأداء";
+"Settings" = "الإعدادات";
+
+"TodaysTasks" = "المهام اليوم";
+
+
+
+"TaskEntry" = "أدخل المهام";
+"StartTimeText" = "حدد الوقت المتوقع للبدء:";
+"FinishTimeText" = "حدد الوقت المتوقع للإنهاء:";
+"AddTask" = "أضف";
+
+"ValidTaskWarning" = "أضف مهمة صحيحة";
+"OkButton" = "تمام";
+
+"EditTitle" = "عدِّل مهمتك";
+"ChangeButton" = "غيِّر";
+
+
+
+"unlocked" = "مفتوح";
+"locked" = "مقفل";
+
+
+
+"subscription" = "الإشتراك";
+"preferences" = "التفضيلات";
+"language" = "اللغة";
+"icon" = "الأيقونة";
+"light" = "فاتح";
+"dark" = "داكن";
+
+"languageChangeAlert" = "لتغيير لغة التطبيق، عليك الخروج و الدخول مرة أخرى";
+
+"ExitBtn" = "الخروج";
+"cancel" = "إلغاء العملية";
+
+
+
+"days" = "أيام";
+"streak" = "الإلتزام:";
+
+"sun" = "الأحد";
+"mon" = "الإثنين";
+"tue" = "الثلاثاء";
+"wed" = "الأربعاء";
+"thu" = "الخميس";
+"fri" = "الجمعة";
+"sat" = "السبت";
+
+"signIn" = "تسجيل الدخول";
+"signOut" = "تسجيل الخروج";
+"signOutPrompt" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"cancel" = "إلغاء";
+"registerNow" = "إنشاء حساب جديد";
+
+
+"emailPrompt" = "أدخل إيميلك";
+"passwordPrompt" = "أدخل كلمة السر الخاصة بك";
+"resetPasswordPrompt" = "نسيت كلمة السر؟";
+"accountMissingPrompt" = "ليس لديك حساب؟";
+"accountExistsPrompt" = "لديك حساب؟";

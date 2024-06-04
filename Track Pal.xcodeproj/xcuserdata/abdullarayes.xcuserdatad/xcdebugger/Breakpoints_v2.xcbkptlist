@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "42112BA8-7E85-47F6-AD26-FEE9DDAFE186"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF82D102-5C38-489B-B2F1-1D04E24DB957"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/TaskRowView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AF82D102-5C38-489B-B2F1-1D04E24DB957 - f96906cca04db60b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Track_Pal.TaskRowView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TaskRowView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "AF82D102-5C38-489B-B2F1-1D04E24DB957 - f96906cca04db628"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Track_Pal.TaskRowView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TaskRowView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A5A3E60-2FD9-4618-8E58-CC6C22D6B7F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/TasksView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "TasksView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1A5A3E60-2FD9-4618-8E58-CC6C22D6B7F1 - 9489061a2e33aa61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Track_Pal.TasksView.taskIndexToEdit : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "1A5A3E60-2FD9-4618-8E58-CC6C22D6B7F1 - 9a49e470cb89c7c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.TasksView.init() -&gt; Track_Pal.TasksView"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "1A5A3E60-2FD9-4618-8E58-CC6C22D6B7F1 - cc9bbb68a11a18ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.TasksView.init(taskElements: Track_Pal.TaskElements, sheetVisible: Swift.Bool, editVisible: Swift.Bool, prioritizeVisible: Swift.Bool, prioritized: Swift.Bool, launched: Swift.Bool, editedTaskElement: Swift.Optional&lt;Track_Pal.TaskElement&gt;, offsets: Track_Pal.OffsetClass, completedTask: Swift.Bool, daysPassed: Swift.Int, dataService: Track_Pal.DataService, databaseTasks: Track_Pal.TaskFModel) -&gt; Track_Pal.TasksView"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "1A5A3E60-2FD9-4618-8E58-CC6C22D6B7F1 - 9a49e470cb89c7c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.TasksView.init() -&gt; Track_Pal.TasksView"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "1A5A3E60-2FD9-4618-8E58-CC6C22D6B7F1 - 516d6685e93b09fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.TasksView.init(taskElements: @autoclosure () -&gt; Track_Pal.TaskElements, sheetVisible: Swift.Bool, editVisible: Swift.Bool, prioritizeVisible: Swift.Bool, prioritized: Swift.Bool, launched: Swift.Bool, editedTaskElement: Swift.Optional&lt;Track_Pal.TaskElement&gt;, offsets: Track_Pal.OffsetClass, completedTask: Swift.Bool, daysPassed: Swift.Int, dataService: Track_Pal.DataService, databaseTasks: Track_Pal.TaskFModel) -&gt; Track_Pal.TasksView"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69A6F09C-7360-4F57-9201-028719A7085B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "EditTaskView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "69A6F09C-7360-4F57-9201-028719A7085B - dab486ca0be93513"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.EditTaskView.taskElement.getter : Swift.Optional&lt;Track_Pal.TaskElement&gt;"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "69A6F09C-7360-4F57-9201-028719A7085B - cd465df8757751ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.EditTaskView.taskElement.setter : Swift.Optional&lt;Track_Pal.TaskElement&gt;"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "69A6F09C-7360-4F57-9201-028719A7085B - bd431bced02fac1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.EditTaskView.taskElement.modify : Swift.Optional&lt;Track_Pal.TaskElement&gt;"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "69A6F09C-7360-4F57-9201-028719A7085B - b21030dc67c4e824"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.EditTaskView.taskElement.modify : Swift.Optional&lt;Track_Pal.TaskElement&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "69A6F09C-7360-4F57-9201-028719A7085B - 429884739790220c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Track_Pal.EditTaskView.$taskElement.getter : SwiftUI.Binding&lt;Swift.Optional&lt;Track_Pal.TaskElement&gt;&gt;"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE57EF61-9ED1-4E65-B04E-B56A927A4A91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BE57EF61-9ED1-4E65-B04E-B56A927A4A91 - b4345142663b44ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "BE57EF61-9ED1-4E65-B04E-B56A927A4A91 - b4345142663b44ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BDAFEE1-9784-432A-B463-9A39130ED519"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7BDAFEE1-9784-432A-B463-9A39130ED519 - b4345142663b442f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "7BDAFEE1-9784-432A-B463-9A39130ED519 - b4345142663b442f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D15A65D5-AF2B-4AD7-AF8E-02321FA271A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D15A65D5-AF2B-4AD7-AF8E-02321FA271A9 - b4345142663b440c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "D15A65D5-AF2B-4AD7-AF8E-02321FA271A9 - b4345142663b440c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F74C4371-C214-4902-8337-F896EDF81252"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F74C4371-C214-4902-8337-F896EDF81252 - b4345142663b444e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "F74C4371-C214-4902-8337-F896EDF81252 - b4345142663b444e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92CEB646-8FC5-48E8-9D37-7BF1150C0AA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "92CEB646-8FC5-48E8-9D37-7BF1150C0AA4 - 927518bb3c0ecd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt; in closure #3 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "2096">
+               </Location>
+               <Location
+                  uuid = "92CEB646-8FC5-48E8-9D37-7BF1150C0AA4 - 927518bb3c0ef36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt; in closure #5 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63F61B56-E985-4553-9A74-7988A6ED1304"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/EditTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "63F61B56-E985-4553-9A74-7988A6ED1304 - 927518bb3c0ecf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt; in closure #3 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+               <Location
+                  uuid = "63F61B56-E985-4553-9A74-7988A6ED1304 - 927518bb3c0ecf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt; in closure #5 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0 where &#x3c4;_0_0: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.EditTaskView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/EditTaskView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E2DDE32-A12A-437B-92E5-561C0D252D50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD76144F-6CC3-4823-9E61-340993820EFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/TasksView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FD76144F-6CC3-4823-9E61-340993820EFC - bb001f70d5a5882c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Track_Pal.TaskElement) -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Track_Pal.TaskElement)&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Track_Pal.BackgroundView, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.TasksView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "FD76144F-6CC3-4823-9E61-340993820EFC - bb001f70d5a5882c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Track_Pal.TaskElement) -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Track_Pal.TaskElement)&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Track_Pal.BackgroundView, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.TasksView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "FD76144F-6CC3-4823-9E61-340993820EFC - 80cbec8b2970b24d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Track_Pal.TaskElement) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Track_Pal.TaskElement)&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Track_Pal.BackgroundView, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.TasksView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47FFDC79-A2E6-4735-92B6-ACD462E0A26C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/TasksView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "47FFDC79-A2E6-4735-92B6-ACD462E0A26C - f99825265b548012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Int, Track_Pal.TaskElement) -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Track_Pal.TaskElement)&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Track_Pal.BackgroundView, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.TasksView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "47FFDC79-A2E6-4735-92B6-ACD462E0A26C - 39251ac3c9e678cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Int, Track_Pal.TaskElement) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: Track_Pal.TaskElement)&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(Track_Pal.BackgroundView, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Track_Pal.TasksView.body.getter : some"
+                  moduleName = "Track Pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullarayes/Documents/Track%20Pal/Track%20Pal/Views/TasksView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "770DCE45-4312-4BF3-9EEF-1CF163B03AE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Track Pal/Views/TaskRowView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
